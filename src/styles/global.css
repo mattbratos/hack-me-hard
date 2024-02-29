@@ -29,12 +29,10 @@ div#__next > div {
 
 ::-webkit-scrollbar-track {
   background: #202020;
-  border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
   background: #505050;
-  border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
